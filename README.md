@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edmorpheo
+- 👋 Hi, I’m @edmorpheus
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning big data bases and german
 <!-- - 💞️ I’m looking to collaborate on ... 
